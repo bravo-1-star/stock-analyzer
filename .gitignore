@@ -1,0 +1,32 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Data
+data_cache/
+output/
+*.csv
+*.pkl
+
+# Logs
+logs/
+*.log
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
+
+# Environment
+.env
+venv/
+*.egg-info/
